@@ -79,6 +79,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/) standardizes how 
 | [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Secure local file operations |
 | [Screenpipe MCP](https://github.com/mediar-ai/screenpipe) | Access screen recordings and transcripts |
 | [Browser](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) | Browser automation and context |
+| [Context Harness](https://github.com/parallax-labs/context-harness) | Local-first context for Cursor/Claude. SQLite + embeddings + MCP server. |
 
 ## Personal Knowledge Management
 

@@ -26,7 +26,7 @@ Tools that capture your digital activity for AI-powered recall and search.
 | Tool | Platform | Description | Stars |
 |------|----------|-------------|-------|
 | [Screenpipe](https://github.com/screenpipe/screenpipe) | macOS, Windows, Linux | 24/7 local screen & mic recording; indexes accessibility text, OCR, and transcripts for AI search and agents. Works with Ollama. | ![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe) |
-| [Pensieve (memos)](https://github.com/arkohut/memos) | macOS, Windows, Linux | Passive screenshot recording with OCR and semantic search, runs fully local | ![GitHub stars](https://img.shields.io/github/stars/arkohut/memos) |
+| [Pensieve](https://github.com/arkohut/pensieve) | macOS, Windows, Linux | Passive screenshot recording with OCR and semantic search, runs fully local | ![GitHub stars](https://img.shields.io/github/stars/arkohut/pensieve) |
 | [OpenRecall](https://github.com/openrecall/openrecall) | macOS, Windows, Linux | Privacy-first alternative to Windows Recall | ![GitHub stars](https://img.shields.io/github/stars/openrecall/openrecall) |
 | [Windrecorder](https://github.com/yuka-friends/Windrecorder) | Windows | Memory search app with OCR and image description | ![GitHub stars](https://img.shields.io/github/stars/yuka-friends/Windrecorder) |
 | [OpenRewind](https://github.com/alikia2x/openrewind) | macOS (Apple Silicon) | Open source Rewind alternative | ![GitHub stars](https://img.shields.io/github/stars/alikia2x/openrewind) |
@@ -36,7 +36,7 @@ Tools that capture your digital activity for AI-powered recall and search.
 
 | Tool | Description |
 |------|-------------|
-| [Limitless](https://www.limitless.ai/) | Personalized AI powered by everything you've seen, said, or heard (formerly Rewind.ai; now centered on the Limitless Pendant wearable) |
+| [Limitless](https://www.limitless.ai/) | Personalized AI from everything you've seen, said, or heard. Formerly Rewind.ai; acquired by Meta (Dec 2025), with the Rewind desktop app being wound down |
 | [Microsoft Recall](https://support.microsoft.com/en-us/windows/recall) | Windows feature that takes periodic snapshots for AI-powered search |
 
 ## Memory & Context Systems
@@ -93,7 +93,6 @@ Tools for organizing and querying personal knowledge.
 | [Logseq](https://github.com/logseq/logseq) | Privacy-first, open-source knowledge base | ![GitHub stars](https://img.shields.io/github/stars/logseq/logseq) |
 | [SiYuan](https://github.com/siyuan-note/siyuan) | Privacy-first, local-first PKM with block-level editing | ![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan) |
 | [Khoj](https://github.com/khoj-ai/khoj) | AI personal assistant for your digital brain | ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj) |
-| [Reor](https://github.com/reorproject/reor) | AI note-taking app that auto-links notes and runs models locally | ![GitHub stars](https://img.shields.io/github/stars/reorproject/reor) |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | All-in-one desktop app to chat with your docs, fully local option | ![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm) |
 | [Quivr](https://github.com/QuivrHQ/quivr) | Your GenAI second brain | ![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr) |
 | [PrivateGPT](https://github.com/zylon-ai/private-gpt) | Chat with your documents privately | ![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt) |
@@ -105,8 +104,8 @@ Extract text from screens, documents, and images.
 | Tool | Platform | Description | Stars |
 |------|----------|-------------|-------|
 | [Tesseract](https://github.com/tesseract-ocr/tesseract) | Cross-platform | The definitive open source OCR engine | ![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract) |
-| [Surya](https://github.com/VikParuchuri/surya) | Cross-platform | Modern OCR with layout and reading-order detection in 90+ languages | ![GitHub stars](https://img.shields.io/github/stars/VikParuchuri/surya) |
-| [Marker](https://github.com/VikParuchuri/marker) | Cross-platform | Convert PDFs and images to clean markdown/JSON | ![GitHub stars](https://img.shields.io/github/stars/VikParuchuri/marker) |
+| [Surya](https://github.com/datalab-to/surya) | Cross-platform | Modern OCR with layout and reading-order detection in 90+ languages | ![GitHub stars](https://img.shields.io/github/stars/datalab-to/surya) |
+| [Marker](https://github.com/datalab-to/marker) | Cross-platform | Convert PDFs and images to clean markdown/JSON | ![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker) |
 | [olmOCR](https://github.com/allenai/olmocr) | Cross-platform | Toolkit for converting PDFs and documents to text with VLMs | ![GitHub stars](https://img.shields.io/github/stars/allenai/olmocr) |
 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Cross-platform | Ready-to-use OCR with 80+ languages | ![GitHub stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR) |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Cross-platform | Multilingual OCR toolkit | ![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR) |
@@ -125,7 +124,7 @@ Convert speech to searchable text.
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 4x faster Whisper with CTranslate2 | ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper) |
 | [WhisperX](https://github.com/m-bain/whisperX) | Whisper with word-level timestamps and speaker diarization | ![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX) |
 | [Parakeet (NVIDIA NeMo)](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) | Fast, accurate ASR models that top open ASR leaderboards | N/A (model) |
-| [Moonshine](https://github.com/usefulsensors/moonshine) | Fast on-device speech recognition for edge and real-time use | ![GitHub stars](https://img.shields.io/github/stars/usefulsensors/moonshine) |
+| [Moonshine](https://github.com/moonshine-ai/moonshine) | Fast on-device speech recognition for edge and real-time use | ![GitHub stars](https://img.shields.io/github/stars/moonshine-ai/moonshine) |
 | [speaches](https://github.com/speaches-ai/speaches) | OpenAI-compatible local STT/TTS server (formerly faster-whisper-server) | ![GitHub stars](https://img.shields.io/github/stars/speaches-ai/speaches) |
 | [Vosk](https://github.com/alphacep/vosk-api) | Offline speech recognition | ![GitHub stars](https://img.shields.io/github/stars/alphacep/vosk-api) |
 
@@ -137,11 +136,9 @@ AI coding assistants that use project, codebase, and screen context.
 |------|-----------------|-------|
 | [Claude Code](https://github.com/anthropics/claude-code) | Anthropic's agentic coding CLI with full-repo context | ![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code) |
 | [Cline](https://github.com/cline/cline) | Autonomous coding agent in VS Code with codebase context | ![GitHub stars](https://img.shields.io/github/stars/cline/cline) |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Open platform for AI software-engineering agents (formerly OpenDevin) | ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands) |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | Open platform for AI software-engineering agents (formerly OpenDevin) | ![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands) |
 | [Continue](https://github.com/continuedev/continue) | Codebase context, custom context providers | ![GitHub stars](https://img.shields.io/github/stars/continuedev/continue) |
-| [Roo Code](https://github.com/RooCodeInc/Roo-Code) | VS Code AI dev agent with codebase awareness | ![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) |
 | [Aider](https://github.com/Aider-AI/aider) | Git-aware AI pair programming | ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider) |
-| [Cody](https://github.com/sourcegraph/cody) | Codebase-aware AI assistant | ![GitHub stars](https://img.shields.io/github/stars/sourcegraph/cody) |
 | [Tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby) |
 | [Cursor](https://cursor.com/) | Full codebase indexing | N/A (closed) |
 
@@ -159,7 +156,6 @@ Academic work on context-aware AI systems.
 ### Tutorials & Guides
 
 - [Building a Second Brain with AI](https://www.buildingasecondbrain.com/) - Tiago Forte's methodology
-- [RAG Best Practices](https://www.llamaindex.ai/blog/a-guide-to-production-rag) - LlamaIndex production guide
 - [Context Engineering](https://dev.to/contextspace_/the-10-best-context-engineering-open-source-projects-in-2025-4f94) - Best practices for context
 
 ### Integration Examples

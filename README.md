@@ -37,7 +37,7 @@ Tools that capture your digital activity for AI-powered recall and search.
 | Tool | Description |
 |------|-------------|
 | [Limitless](https://www.limitless.ai/) | Personalized AI from everything you've seen, said, or heard. Formerly Rewind.ai; acquired by Meta (Dec 2025), with the Rewind desktop app being wound down |
-| [Microsoft Recall](https://support.microsoft.com/en-us/windows/recall) | Windows feature that takes periodic snapshots for AI-powered search |
+| [Microsoft Recall](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c) | Windows feature that takes periodic snapshots for AI-powered search |
 
 ## Memory & Context Systems
 
@@ -160,7 +160,7 @@ Academic work on context-aware AI systems.
 
 ### Integration Examples
 
-- [Screenpipe pipes](https://github.com/screenpipe/screenpipe/tree/main/pipes) - Reference automations that consume screen and audio context
+- [Screenpipe pipes](https://github.com/screenpipe/screenpipe/tree/main/crates/screenpipe-core/assets/pipes) - Reference automations that consume screen and audio context
 - [Screenpipe docs](https://docs.screenpi.pe) - Build apps and agents on top of screen context
 - [Screenpipe TypeScript SDK](https://www.npmjs.com/package/@screenpipe/js) - Query screen recordings, audio, and UI elements from JS/TS
 

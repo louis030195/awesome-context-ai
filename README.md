@@ -120,7 +120,7 @@ Convert speech to searchable text.
 | Tool | Description | Stars |
 |------|-------------|-------|
 | [Whisper](https://github.com/openai/whisper) | OpenAI's speech recognition model | ![GitHub stars](https://img.shields.io/github/stars/openai/whisper) |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | High-performance C++ port of Whisper | ![GitHub stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) |
+| [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | High-performance C++ port of Whisper | ![GitHub stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp) |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 4x faster Whisper with CTranslate2 | ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper) |
 | [WhisperX](https://github.com/m-bain/whisperX) | Whisper with word-level timestamps and speaker diarization | ![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX) |
 | [Parakeet (NVIDIA NeMo)](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2) | Fast, accurate ASR models that top open ASR leaderboards | N/A (model) |

@@ -81,7 +81,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/) standardizes how 
 | [Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Knowledge graph-based persistent memory |
 | [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Secure local file operations |
 | [Screenpipe MCP](https://github.com/screenpipe/screenpipe) | Access screen recordings and transcripts |
-| [Browser](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) | Browser automation and context |
+| [Browser](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) | Browser automation and context |
 
 ## Personal Knowledge Management
 
